@@ -11,4 +11,3 @@ def display_board(board)
   end
 
   board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
-  puts "the X is #{board[4]"
