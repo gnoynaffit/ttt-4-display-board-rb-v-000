@@ -9,5 +9,6 @@ def display_board(board)
   puts "   |   |   "
 
   end
-
+puts "Turn 1"
   board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
+  display_board(board)
