@@ -7,9 +7,11 @@ def display_board(board)
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
-
   puts "Row 2: #{X{4}}"
 
 end
 
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
+
+
+c
