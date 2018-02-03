@@ -10,4 +10,4 @@ def display_board(board)
 end
 
 display_board = [" ", " ", " ", " ", "X", " ", " ", " ", " "  ]
-puts "#{display_board[4]}
+puts "#{display_board[4]}"
