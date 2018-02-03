@@ -9,4 +9,4 @@ def display_board(board)
   puts "   |   |   "
 end
 puts display_board([" ", " ", " ", " ", "X", " ", " ", " ", " ", " ", ])
-puts "#{board{2}}"
+puts "#{board[4]}"
