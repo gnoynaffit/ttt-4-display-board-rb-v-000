@@ -7,8 +7,9 @@ def display_board(board)
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
-puts "#{board[4]}"
+
   end
 puts "Turn 1"
   board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
   display_board(board)
+puts "#{board[4]}"
